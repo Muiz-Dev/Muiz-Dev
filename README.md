@@ -1,4 +1,4 @@
-# Hi, I'm Adesope Muiz Ayomide 👋
+# Hi, I'm Muiz Adesope Ayomide👋
 
 Experienced Web3 Developer | Founder & Lead Developer at WheatChain
 
