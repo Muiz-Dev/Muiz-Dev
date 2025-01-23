@@ -18,7 +18,7 @@
   <a href="https://wheatchain.xyz">
     <img src="https://img.shields.io/badge/WheatChain-Visit%20Us-brightgreen?style=flat-square&logo=ethereum" alt="WheatChain"/>
   </a>
-  <img src="https://img.shields.io/badge/Location-Lagos%2C%20Nigeria-blue?style=flat-square&logo=google-maps" alt="Location"/>
+  
 </div>
 
 ---
