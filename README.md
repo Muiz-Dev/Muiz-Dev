@@ -11,7 +11,7 @@
 </div>
 
 <div align="center">
-  <a href="mailto:muizadesope.dev@gmail.com">
+  <a href="mailto:muiz.dev.io@gmail.com">
     <img src="https://img.shields.io/badge/Email-muizadesope.dev%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"/>
   </a>
 </div>
