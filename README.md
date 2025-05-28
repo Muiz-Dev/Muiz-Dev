@@ -77,7 +77,7 @@ My passion lies in building scalable web applications, exploring backend archite
 
 <div align="center">
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge\&logo=Twitter\&logoColor=white)](https://x.com/muiz_dev_io)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge\&logo=Twitter\&logoColor=white)](https://x.com/k_dev_io)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/adesopemuiz3)
 
 </div>
