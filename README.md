@@ -1,92 +1,96 @@
-<div align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-Full%20Stack-blueviolet?style=for-the-badge" alt="Software Engineer"/>
-  <img src="https://img.shields.io/badge/ALX%20Graduate-Software%20Engineering-blue?style=for-the-badge" alt="ALX Graduate"/>
-  <img src="https://img.shields.io/badge/Digital%20Tech%20Academy-Intern-green?style=for-the-badge" alt="DTA Intern"/>
-  <img src="https://img.shields.io/badge/Golang-Backend-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+﻿<div align="center">
+  <img src="https://img.shields.io/badge/Product%20Focused-Full%20Stack-6B2DFF?style=for-the-badge" alt="Product-Focused Full-Stack" />
+  <img src="https://img.shields.io/badge/React-Next.js-0EA5E9?style=for-the-badge&logo=react&logoColor=white" alt="React Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-Ready-2563EB?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Lagos-Nigeria-111827?style=for-the-badge" alt="Lagos Nigeria" />
 </div>
 
-# Hi, I'm Muiz Adesope Ayomide 👋
+# Hi, I'm Muiz Adesope
+
+Product-focused full-stack developer building web apps, dashboards, and marketplaces for startups and SMEs. I ship clean UX, reliable backends, and scalable data workflows.
 
 <div align="center">
-  <h3>Full-Stack Software Engineer | ALX Graduate | Intern at Digital Technology Academy</h3>
-</div>
-
-<div align="center">
-  <a href="mailto:muiz.dev.io@gmail.com">
-    <img src="https://img.shields.io/badge/Email-muiz.dev.io%40gmail.com-red?style=flat-square&logo=gmail" alt="Email"/>
-  </a>
-</div>
-
----
-
-## 🚀 About Me
-
-I’m a dedicated software engineer with a strong foundation in full-stack development, honed through the rigorous and immersive **ALX Software Engineering Program**. ALX is a globally recognized program that emphasizes real-world, project-based learning and equips developers with industry-level skills in software engineering.
-
-Currently, I'm applying my skills as an intern at the **Digital Technology Academy** at **Yaba College of Technology**, working on real-world tech solutions and collaborating with a team of professionals to deliver impactful projects.
-
-My passion lies in building scalable web applications, exploring backend architecture (**Node.js & Golang**), and continuously evolving my tech skills to keep up with the industry's demands.
-
----
-
-## 🛠️ Tech Stack & Expertise
-
-<div align="center">
-
-| Languages  | Frontend       | Backend                 | Databases      | Tools & Frameworks |
-| ---------- | -------------- | ----------------------- | -------------- | ------------------ |
-| JavaScript | React, Next.js | Node.js, Express, Go    | MongoDB, MySQL | Git, Docker        |
-| Python     | Tailwind CSS   | GraphQL, REST APIs      | Firebase       | Postman            |
-| PHP        | HTML/CSS       |                         | SQLite         | GitHub             |
-
+  <a href="https://muiz-dev.vercel.app"><img src="https://img.shields.io/badge/Portfolio-muiz--dev.vercel.app-7C3AED?style=flat-square" alt="Portfolio" /></a>
+  <a href="https://jowfuqlsaxqjfceuxsez.supabase.co/storage/v1/object/public/storage/Muiz_Adesope_Resume.pdf"><img src="https://img.shields.io/badge/Resume-PDF-DC2626?style=flat-square" alt="Resume" /></a>
+  <a href="mailto:muiz.dev.io@gmail.com"><img src="https://img.shields.io/badge/Email-muiz.dev.io%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/muiz-dev"><img src="https://img.shields.io/badge/LinkedIn-muiz--dev-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Muiz-dev"><img src="https://img.shields.io/badge/GitHub-Muiz--dev-111827?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/adesopemuiz/"><img src="https://img.shields.io/badge/Instagram-adesopemuiz-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </div>
 
 ---
 
-## 🌟 Key Skills
+## Highlights
 
-* Full-Stack Web Development (React, Node.js, Next.js, Go)  
-* RESTful API Development & Integration  
-* Database Management (MongoDB, MySQL, Firebase)  
-* Software Engineering Best Practices  
-* Agile & Collaborative Development  
-* Debugging, Testing & Code Optimization  
+- Built **AfriConnect Exchange**, a cross-platform marketplace with search, escrow, messaging, and admin tools.
+- Delivered a **CMS-driven real-estate website** for a UK firm with lead capture and responsive UX.
+- Shipped internal tools like a **complaint management system** with priority routing and admin queues.
 
----
-
-## 📚 Certifications & Learning
-
-* 🎓 **ALX Software Engineering Program** – Graduate  
-* 💻 Ongoing participation in coding challenges and open-source contributions  
-* 🧠 Self-learning through platforms like FreeCodeCamp, LeetCode, and Udemy  
+**Analytics snapshot (AfriConnect Exchange, Jan 14 - Feb 10, 2026)**
+- 1,594 page views, 266 sessions, 103 first-time visits
+- Top markets: GB, US, DE, NG
 
 ---
 
-## 💼 Experience
+## Featured Projects
 
-### 💻 Digital Technology Academy – Intern  
+- **AfriConnect Exchange** - Marketplace for the African diaspora with listings, escrow payments, Algolia search, messaging, notifications, onboarding, and admin tools.
+  - Stack: Next.js, Expo (React Native), Firebase, TypeScript, Tailwind CSS, Algolia, Stripe
+  - Live: https://www.africonnect-exchange.org/
 
-**Yaba College of Technology**  
+- **LoveView Estates** - UK real-estate website with CMS-managed listings and lead capture.
+  - Stack: Next.js, Supabase, Tailwind CSS, TypeScript
+  - Live: https://www.loveviewestates.co.uk/
 
-* Collaborating on internal and external software projects  
-* Participating in team scrums and applying agile methodologies  
-* Gaining exposure to cloud deployment and DevOps practices  
+- **Complaint Management System** - Internal web app with attachments, priority routing, and real-time admin queue.
+  - Stack: Next.js, PostgreSQL, Tailwind CSS, TypeScript
+  - Live: https://cts-m.vercel.app/
+
+- **Student Result Management System** - Role-based portal for results entry and student access.
+  - Stack: PHP, MySQL, AJAX, Bootstrap
+  - Live: https://academyiq.vercel.app/
+
+- **Developer Portfolio** - High-performance portfolio with custom animations and SEO-friendly pages.
+  - Stack: Next.js, Tailwind CSS, TypeScript, Vercel
+  - Live: https://muizdev.vercel.app/
 
 ---
 
-## 📫 Let's Connect!
+## Tech Stack
 
-<div align="center">
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, HTML/CSS
 
-[![X (Twitter)](https://img.shields.io/badge/X%20Profile-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/muiz_sui)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adesopemuiz3)
+**Backend:** Node.js, PHP, Firebase (Auth/Firestore/Functions)
 
-</div>
+**Databases:** PostgreSQL, MySQL, Supabase, Firebase
+
+**Tools:** Git/GitHub, Vercel, REST APIs, Stripe, Algolia
 
 ---
 
-## 🧠 Fun Fact
+## Experience
 
-I love tackling complex problems, exploring new technologies, and building products that solve real-world issues. I’m always open to collaborations and innovative tech discussions!
+- **Web Developer** - LoveView Estates (2024 - Present)
+- **Full-Stack Developer (Freelance)** (2023 - Present)
+- **Software Engineering Intern** - Digital Technology Academy (2024 - 2025)
+- **Product Developer / Community Manager** - WheatChain Protocol (2023 - 2025)
+
+---
+
+## Certifications
+
+- ALX Software Engineering Program (Graduate)
+- FreeCodeCamp Responsive Web Design
+- The Complete Web Development Bootcamp (Udemy)
+
+---
+
+## Let’s Connect
+
+If you’re building a product and want clean UX + reliable engineering, reach out.
+
+- Email: muiz.dev.io@gmail.com
+- LinkedIn: https://linkedin.com/in/muiz-dev
+- X: https://x.com/muiz_sui
 
 ---
