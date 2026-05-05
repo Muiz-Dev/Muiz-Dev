@@ -10,7 +10,7 @@
 
 <!-- ABOUT ME -->
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anis/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" width="28" /> &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
 ```yaml
 name: Muiz Adesope
@@ -38,18 +38,24 @@ experience: 3+ years shipping production software
 
 <!-- GITHUB STATS -->
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" /> &nbsp;GitHub Stats
+## 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muiz-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&ring_color=7C3AED&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Muiz-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=7C3AED&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
+  <a href="https://github.com/Muiz-dev">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muiz-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&ring_color=7C3AED&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Muiz-dev">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=Muiz-dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=7C3AED&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
+  </a>
 
 </div>
 
 <div align="center">
 
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muiz-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/Muiz-dev">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muiz-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  </a>
 
 </div>
 
