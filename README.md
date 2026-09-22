@@ -2,13 +2,11 @@
 
 <div align="center">
 
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Muiz-dev&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Muiz-Dev&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
 
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Building+Web+Apps+%26+Marketplaces;JavaScript+%7C+PHP+%7C+Python+%7C+Flutter;Clean+UX+%2B+Reliable+Engineering;Lagos%2C+Nigeria)](https://git.io/typing-svg)
 
 </div>
-
-<!-- ABOUT ME -->
 
 ## About Me
 
@@ -27,19 +25,17 @@ experience: 3+ years shipping production software
   [![Email](https://img.shields.io/badge/Email-contact@muizdev.xyz-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@muizdev.xyz)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-muiz--adesope-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muiz-adesope/)
   [![GitHub](https://img.shields.io/badge/GitHub-Muiz--Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muiz-Dev)
+  [![X](https://img.shields.io/badge/X-@muizdev-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/muizdev)
+  [![Instagram](https://img.shields.io/badge/Instagram-muiz__dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/muiz_dev)
 
 </div>
-
----
-
-<!-- GITHUB STATS -->
 
 ## GitHub Stats
 
 <div align="center">
 
   <a href="https://github.com/Muiz-Dev">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muiz-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&ring_color=7C3AED&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+    <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Muiz-Dev&theme=tokyonight" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/Muiz-Dev">
     <img width="49%" src="https://streak-stats.demolab.com/?user=Muiz-Dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=7C3AED&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
@@ -50,22 +46,16 @@ experience: 3+ years shipping production software
 <div align="center">
 
   <a href="https://github.com/Muiz-Dev">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muiz-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Muiz-Dev&theme=tokyonight" alt="Top Languages by Repo" />
+  </a>
+  <a href="https://github.com/Muiz-Dev">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Muiz-Dev&theme=tokyonight" alt="Top Languages by Commit" />
+  </a>
+  <a href="https://github.com/Muiz-Dev">
+    <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Muiz-Dev&theme=tokyonight&utcOffset=1" alt="Productive Time" />
   </a>
 
 </div>
-
-<!-- ACTIVITY GRAPH -->
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muiz-dev&bg_color=0d1117&color=7C3AED&line=7C3AED&point=FF6B6B&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<!-- TECH STACK -->
 
 ## Tech Stack
 
@@ -84,10 +74,6 @@ experience: 3+ years shipping production software
 [![Tools Skills](https://skillicons.dev/icons?i=git,github,vercel,aws,vscode)](https://skillicons.dev)
 
 </div>
-
----
-
-<!-- FEATURED PROJECTS -->
 
 ## Featured Projects
 
@@ -127,10 +113,6 @@ experience: 3+ years shipping production software
 
 </div>
 
----
-
-<!-- EXPERIENCE -->
-
 ## Experience
 
 | Role | Company | Period |
@@ -139,8 +121,6 @@ experience: 3+ years shipping production software
 | **Full-Stack Developer** | Freelance | 2023 - Present |
 | **Software Engineering Intern** | Digital Technology Academy | 2024 - 2025 |
 | **Product Developer / Community Manager** | WheatChain Protocol | 2023 - 2025 |
-
----
 
 <div align="center">
 
