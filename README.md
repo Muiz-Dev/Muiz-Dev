@@ -1,23 +1,75 @@
-# Muiz Adesope
-**Backend-Focused Full-Stack Developer | Lagos, Nigeria**  
-*Building scalable web applications, marketplaces, and the reliable systems behind them.*
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7C3AED&height=220&section=header&text=Muiz%20Adesope&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend-Focused%20Full-Stack%20Developer&descSize=18&descAlignY=55&descAlign=50" alt="header" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-muizdev.xyz-7C3AED?style=flat-square&logoColor=white)](https://muizdev.xyz)
-[![Email](https://img.shields.io/badge/Email-contact@muizdev.xyz-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@muizdev.xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muiz--adesope-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muiz-adesope/)
-[![GitHub](https://img.shields.io/badge/GitHub-Muiz--Dev-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Muiz-Dev)
+<div align="center">
+
+  ![Visitor Count](https://komarev.com/ghpvc/?username=Muiz-dev&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=600&lines=Building+Web+Apps+%26+Marketplaces;JavaScript+%7C+PHP+%7C+Python+%7C+Flutter;Clean+UX+%2B+Reliable+Engineering;Lagos%2C+Nigeria)](https://git.io/typing-svg)
+
+</div>
+
+<!-- ABOUT ME -->
+
+## About Me
+
+```yaml
+name: Muiz Adesope
+location: Lagos, Nigeria
+role: Backend-Focused Full-Stack Developer
+focus: Web Apps • Dashboards • Marketplaces
+currently_building: AfriConnect Exchange
+experience: 3+ years shipping production software
+```
+
+<div align="center">
+
+  [![Portfolio](https://img.shields.io/badge/Portfolio-muizdev.xyz-7C3AED?style=for-the-badge&logoColor=white)](https://muizdev.xyz)
+  [![Email](https://img.shields.io/badge/Email-contact@muizdev.xyz-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@muizdev.xyz)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-muiz--adesope-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muiz-adesope/)
+  [![GitHub](https://img.shields.io/badge/GitHub-Muiz--Dev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muiz-Dev)
+
+</div>
 
 ---
 
-## 2026 Focus & How I Work
+<!-- GITHUB STATS -->
 
-- **Currently Building:** Scaling [AfriConnect Exchange](https://www.africonnect-exchange.org/), a marketplace for the African diaspora.
-- **Engineering Philosophy:** I prioritize clean UX, robust database architecture, and reliable system deployments. I handle the full scope of development from authentication and databases to third-party integrations and production infrastructure.
-- **Core Experience:** 3+ years shipping production software for clients across multiple countries.
+## GitHub Stats
+
+<div align="center">
+
+  <a href="https://github.com/Muiz-Dev">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Muiz-Dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&ring_color=7C3AED&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/Muiz-Dev">
+    <img width="49%" src="https://streak-stats.demolab.com/?user=Muiz-Dev&theme=tokyonight&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&sideLabels=7C3AED&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
+  </a>
+
+</div>
+
+<div align="center">
+
+  <a href="https://github.com/Muiz-Dev">
+    <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muiz-Dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&langs_count=8" alt="Top Languages" />
+  </a>
+
+</div>
+
+<!-- ACTIVITY GRAPH -->
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Muiz-dev&bg_color=0d1117&color=7C3AED&line=7C3AED&point=FF6B6B&area=true&area_color=7C3AED&hide_border=true&custom_title=Contribution%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 ---
+
+<!-- TECH STACK -->
 
 ## Tech Stack
+
+<div align="center">
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,php,py,dart)](https://skillicons.dev)
@@ -31,9 +83,15 @@
 ### Tools & Infrastructure
 [![Tools Skills](https://skillicons.dev/icons?i=git,github,vercel,aws,vscode)](https://skillicons.dev)
 
+</div>
+
 ---
 
+<!-- FEATURED PROJECTS -->
+
 ## Featured Projects
+
+<div align="center">
 
 <table>
 <tr>
@@ -67,7 +125,11 @@
 </tr>
 </table>
 
+</div>
+
 ---
+
+<!-- EXPERIENCE -->
 
 ## Experience
 
@@ -80,12 +142,8 @@
 
 ---
 
-## Contribution Activity
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Muiz-dev/Muiz-dev/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Muiz-dev/Muiz-dev/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Muiz-dev/Muiz-dev/output/github-snake.svg">
-  </picture>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:7C3AED&height=120&section=footer" width="100%" alt="footer" />
+
 </div>
